@@ -43,7 +43,7 @@ const List<Product> dummyProducts = [
     rating: 4.8,
     sales: 1250,
     description: '支持蓝牙连接、降噪和长时间续航。',
-    color: Color(0xFFE3F2FD),
+    color: Color.fromARGB(255, 0, 253, 248),
   ),
   Product(
     id: '2',
